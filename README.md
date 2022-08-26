@@ -14,3 +14,12 @@ I design the  screen using react-native . i created a resuable component for the
 My main folder include component folder, navigation folder,screen folder ,assets folder and the utils file
 
 
+# INSTALLATION
+
+1. git clone
+2. After cloning , in your folder terminal run *yarn android* and yarn start
+
+
+ # preview
+ <img width="1662" alt="Screen Shot 2022-08-26 at 3 01 34 PM" src="https://user-images.githubusercontent.com/45630269/186922412-b6e00faa-bf01-445c-b73f-fb4a87230639.png">
+![Uploading Screen Shot 2022-08-26 at 2.59.47 PM.png…]()
