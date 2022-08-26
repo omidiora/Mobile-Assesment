@@ -10,7 +10,7 @@ I design the  screen using react-native . i created a resuable component for the
 ## When you click on the signup it leads to the insight page and on the insight page when you click on the logout it leads back to tbe sign up page
 
 
-##Component
+# Component
 My main folder include component folder, navigation folder,screen folder ,assets folder and the utils file
 
 
